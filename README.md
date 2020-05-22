@@ -1,1 +1,1 @@
-# -swiss-messer-infrastructure
+# swiss-messer-infrastructure
